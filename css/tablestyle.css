@@ -1,0 +1,22 @@
+#cars {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #cars td, #cars th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: justify;
+  }
+
+  #cars th {
+    text-align: center;
+  }
+  
+  #cars th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    color: white;
+  }
