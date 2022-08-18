@@ -14,7 +14,7 @@ del mercado, tambien posee una parte de recursos que sirven para que los usuario
 
 1. Instalar xampp de la pagina oficial [XAMPP](https://www.apachefriends.org/es/index.html).
 2. Crear una carpena en el directorio htdocs con el nombre usuariosvin
-3. Clonar el repositorio en esta carpenat con con el codigo 'git clone https://github.com/brach2022/usuariosvin.git'
+3. Clonar el repositorio en esta carpenat con con el codigo 'git clone https://github.com/brach2022/usuariosVinPage'
 4. Una vez clonada la carpeta ir a la adminitración de base de datos de xampp y crear la base de datos usuarios
 5. Importar el archivo .sql que esta en la raiz del repositorios en la base de datos usuarios 
 6. Ir a la carpeta config y en archivo database.php ajustar los datos de conexión de acorde a su base de datos
