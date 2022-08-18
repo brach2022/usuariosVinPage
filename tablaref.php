@@ -43,7 +43,7 @@ include_once('php/usuarios.php');
           <div class="card shadow-sm">
           <iframe width="100%" height="250" src="https://www.youtube.com/embed/0Zsc4lsLPyg"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
             <div class="card-body">
-              <p class="card-text">El número VIN esta ubicado debajo del asiento del copiloto corriendo la silla hacia atrás se visualiza en el piso  o la calcomanía del paral central, contiene 17 dígitos dígitos Alfanumericos</p>
+              <p class="card-text">El número VIN está ubicado debajo del asiento del copiloto corriendo la silla hacia atrás se visualiza en el piso  o la calcomanía del paral central, contiene 17 dígitos Alfanumericos</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 </div>
@@ -56,7 +56,7 @@ include_once('php/usuarios.php');
           <div class="card shadow-sm">
           <iframe width="100%" height="250" src="https://www.youtube.com/embed/zjFznaclwjA"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
             <div class="card-body">
-              <p class="card-text">l  número VIN esta ubicado en la viga del chasis trasera derecha excatamente detrás de la llanta trasera derecha o  paral central  contiene 17 dígitos Alfanumericos</p>
+              <p class="card-text">l  número VIN está ubicado en la viga del chasis trasera derecha excatamente detrás de la llanta trasera derecha o  paral central  contiene 17 dígitos alfanuméricos</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 </div>
@@ -69,8 +69,7 @@ include_once('php/usuarios.php');
           <div class="card shadow-sm">
           <iframe width="100%" height="250" src="https://www.youtube.com/embed/YVWCMffzrsU"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
             <div class="card-body">
-              <p class="card-text">El número VIN esta ubicado debajo del asiento del copiloto corriendo la silla hacia atrás se visualiza en el piso  o la calcomanía del paral central, contiene 17 dígitos dígitos Alfanumericos
-
+              <p class="card-text">El número VIN está ubicado debajo del asiento del copiloto corriendo la silla hacia atrás se visualiza en el piso  o la calcomanía del paral central, contiene 17 dígitos alfanuméricos
               </p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
@@ -84,7 +83,7 @@ include_once('php/usuarios.php');
           <div class="card shadow-sm">
           <iframe width="100%" height="250" src="https://www.youtube.com/embed/XlL2eQL9rUI"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
             <div class="card-body">
-              <p class="card-text">El número VIN esta ubicado debajo del asiento del copiloto corriendo la silla hacia atrás se visualiza en el piso  o la calcomanía del paral central, contiene 17 dígitos dígitos Alfanumericos</p>
+              <p class="card-text">El número VIN está ubicado debajo del asiento del copiloto corriendo la silla hacia atrás se visualiza en el piso o la calcomanía del paral central, contiene 17 dígitos alfanuméricos</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 </div>
@@ -98,7 +97,7 @@ include_once('php/usuarios.php');
           <div class="card shadow-sm">
           <iframe width="100%" height="250" src="https://www.youtube.com/embed/1rawBY66lPQ"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
             <div class="card-body">
-              <p class="card-text">El numero de VIN se puede encontrar en viga chasis trasera izquierda, ( JIMNY, En la cara interna del guardafango del derecho, (SWIFT,BALENO), Panel para llamas (scross),Panoramico delanatero inferior izquierdo(VITARA LIFE)  contiene 17 dígitos dígitos Alfanumericos</p>
+              <p class="card-text">El numero de VIN se puede encontrar en viga chasis trasera izquierda, ( JIMNY, En la cara interna del guardafango del derecho, (SWIFT,BALENO), Panel para llamas (scross),Panoramico delanatero inferior izquierdo(VITARA LIFE)  contiene 17 dígitos Alfanumericos</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 </div>
@@ -112,7 +111,7 @@ include_once('php/usuarios.php');
           <div class="card shadow-sm">
           <iframe width="100%" height="250" src="https://www.youtube.com/embed/whWEIF1iH-0"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
             <div class="card-body">
-              <p class="card-text">El número de VIN que se encuentra ubicado 1) En la esquina inferior izquierda del panorámico en un rectángulo de color blanco y letras negras, 2) en el marco frontal remachado, 3) En el panel para llamas,4) Viga chasis lateral derecha o calcomania paral, trae 17 dígitos alfanumericos.</p>
+              <p class="card-text">El número de VIN que se encuentra ubicado. En la esquina inferior izquierda del panorámico en un rectángulo de color blanco y letras negras, 2) en el marco frontal remachado, 3) En el panel para llamas,4) Viga chasis lateral derecha o calcomania paral, trae 17 dígitos alfanumericos.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 </div>

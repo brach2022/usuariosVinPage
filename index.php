@@ -55,7 +55,7 @@
             <br>
             <br>
             <br>
-            <p><a class="btn btn btn-light" href="<?php echo ROOT; ?>/quees.php">Sabras ¿Que es?</a></p>
+            <p><a class="btn btn btn-light" href="<?php echo ROOT; ?>/quees.php">Sabras ¿Qué es?</a></p>
           </div>
         </div>
       </div>
@@ -175,9 +175,9 @@
 
     <div class="row featurette  text-light">
       <div class="col-md-7 order-md-2">
-        <h2 class="featurette-heading">Registrete </span></h2>
-        <p class="lead">Te invitamos a que te registres y conoscas toda la información relacionada con el VIN y como esto te puede ayudar a la hora de cambiar de vehiculo y a la hora de vender tu vehiculo</p>
-        <p><a class="btn btn btn-light" href="<?php echo ROOT; ?>/registro.php">Pasa a registrase</a></p>
+        <h2 class="featurette-heading">Registrate </span></h2>
+        <p class="lead">Te invitamos a que te registres y conozcas toda la información relacionada con el VIN y como esto te puede ayudar a la hora de cambiar de vehículo y a la hora de vender tu vehículo</p>
+        <p><a class="btn btn btn-light" href="<?php echo ROOT; ?>/registro.php">Pasa a registrarte</a></p>
       </div>
       <div class="col-md-5 order-md-1">
       <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" src="<?php echo ROOT ?>img/rows/4.jpg" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"></rect><text x="50%" y="50%" fill="#aaa" dy=".3em"></text></svg>
@@ -190,13 +190,13 @@
 
     <div class="row featurette  text-light">
       <div class="col-md-7">
-        <h2 class="featurette-heading">Recursos de interes</span></h2>
-        <p class="lead">En la parte de recursos encuentras los diferentes enlaces que te permiten consultar los datos de un auto y validar su información con bases de datos de consulta publica como son:
+        <h2 class="featurette-heading">Recursos de interés</span></h2>
+        <p class="lead">En la parte de recursos encuentras los diferentes enlaces que te permiten consultar los datos de un auto y validar su información con bases de datos de consulta pública como son:
           <p class = "text-center h4">
 
               <a href="https://fasecolda.com/guia-de-valores/" target="_blank" rel="noopener noreferrer">Fasecolda </a>
               <br>
-              Guía de valores de los vehiculos
+              Guía de valores de los vehículos
               <br><br>
               <a href="https://www.runt.com.co/consultaCiudadana/#/consultaVehiculo" target="_blank" rel="noopener noreferrer">Runt</a>
               <br>

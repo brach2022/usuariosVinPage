@@ -119,25 +119,26 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingOne">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            ¿Que es usuarios VIN?
+                            ¿Qué es usuarios VIN?
                             </button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                USUARIOS VIN es una pagina de consulta que te permite informarte sobre los diferentes aspectos sobre el número de identificación VIN de los autos mas populares
-                                del mercado, tambien posee una parte de recursos que sirven para que los usuarios puedan consultar paginas donde pueden validar el VIN de un vehiculo.
+                            USUARIOS VIN es una página de consulta que te permite informarte sobre los diferentes aspectos sobre el número de identificación VIN de los autos más populares del mercado, también posee una parte de recursos que 
+                            sirven para que los usuarios puedan consultar paginas donde pueden validar el VIN de un vehículo.
                             </div>
                         </div>
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="headingTwo">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                               ¿Que infomación recibo si me registro en USUARIOS VIN?
+                               ¿Qué infomación recibo si me registro en USUARIOS VIN?
                             </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                Usuarios VIN  envia a tu correo la infomación más relevante que se encuentra del registro de tu atumovil como las mejores aseguradoas y tambien como encontrar 
-                                el número VIN  en diferentes marcas.
+                            Usuarios VIN envía a tu correo la información más relevante que se encuentra del registro de tu automóvil como las mejores aseguradoras y también como encontrar 
+                                el número VIN en diferentes marcas.
+
                             </div>
                         </div>
                 </div>

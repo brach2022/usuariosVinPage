@@ -4,7 +4,7 @@
 <footer class="mt-3 bg-light text-center text-lg-start" >
 <div class ="col-sm-12 text-center">
   <strong>
-      <p class = "h6 text-center">Siguenos en</p>
+      <p class = "h6 text-center">síguenos en</p>
   </strong>
     <a href="#">
       <i class="fa fa-facebook" aria-hidden="true"></i>
